@@ -1,4 +1,4 @@
-#tk13.pyw
+#tk13.pyw abcd
 import tkinter as tk
 
 root = tk.Tk()
